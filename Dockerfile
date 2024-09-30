@@ -1,4 +1,4 @@
-FROM logiva/cgi-microservice:1.1
+FROM ghcr.io/logiva/docker-cgi-microservice:latest
 
 LABEL maintainer="Steffen Vinther Sørensen <svs@logiva.dk>"
 
